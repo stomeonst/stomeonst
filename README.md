@@ -8,7 +8,7 @@ I work on focused conversion assets, evidence-safe China localization, and bound
 
 ## Ways to start
 
-1. SaaS Conversion QA Workbook: USD 29 or RMB 199 for 14 editable English and Chinese templates covering evidence, messaging, page QA, localization QA, a seven day test plan, and a decision summary. Delivery is within one business day after verified payment.
+1. SaaS Conversion QA Workbook: USD 29 or RMB 199 for 14 editable English and Chinese templates covering evidence, messaging, page QA, localization QA, a seven day test plan, and a decision summary. Delivery is within one business day after verified payment. [English preview](https://chris-saas-services.stomeonst123.chatgpt.site/workbook) and [Chinese preview](https://chris-saas-services.stomeonst123.chatgpt.site/zh/workbook).
 2. Conversion QA Diagnostic: USD 150 for international billing. A mainland China pilot price of RMB 999 is available after billing eligibility and the payment method are confirmed. It covers up to five public pages, a prioritized findings sheet, an implementation checklist, and one email clarification. Delivery is targeted within 24 hours after complete inputs and full payment. The USD 150 fee is credited toward the USD 450 sprint approved within seven calendar days after delivery, leaving USD 300. When mainland billing is available, RMB 999 is credited toward the RMB 2,980 sprint under the same timing rule, leaving RMB 1,981.
 3. 48 hour SaaS conversion sprint: USD 450 for one page, one audience, one conversion action, and one focused revision.
 4. China ready review: USD 250 for an evidence ledger, Chinese positioning, localized landing page copy, and launch blockers.
