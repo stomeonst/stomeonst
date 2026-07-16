@@ -1,6 +1,6 @@
 # Chris
 
-Productized AI services for B2B SaaS teams.
+LaunchClear is an independent productized AI and digital delivery practice operated by Chris for B2B SaaS teams.
 
 I work on focused conversion assets, evidence-safe China localization, and bounded AI workflow pilots. Each engagement begins with one reviewable paid milestone.
 
@@ -22,6 +22,7 @@ I work on focused conversion assets, evidence-safe China localization, and bound
 1. [Localize SaaS for China](https://github.com/stomeonst/localize-saas-for-china), a reusable evidence-safe China market launch skill. Its [public skills.re audit](https://skills.re/skills/stomeonst/localize-saas-for-china/localize-saas-for-china/audit) scored 98 out of 100 on 15 July 2026.
 2. [WeCom CLI batch demo](https://github.com/stomeonst/wecom-cli-batch-demo), a credential-free local workflow demonstration with idempotency, bounded retry, logs, and automated tests.
 3. [Dated Web Change Evidence](https://github.com/stomeonst/dated-web-change-evidence), a zero-dependency Python sample that records visible HTML text with a UTC check time and SHA256 fingerprint. Four deterministic unit tests pass in release [v0.1.0](https://github.com/stomeonst/dated-web-change-evidence/releases/tag/v0.1.0).
+4. [LaunchClear Capability Samples](https://github.com/stomeonst/launchclear-capability-samples), two source-linked independent briefs covering a Chatwoot and AI support audit plus a six-page English B2B SaaS website delivery plan. Both disclose that no client relationship or commissioned result exists.
 
 ## Working boundaries
 
