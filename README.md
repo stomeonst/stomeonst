@@ -20,11 +20,12 @@ I work on focused conversion assets, evidence-safe China localization, and bound
 
 ## Public work
 
-1. [Localize SaaS for China](https://github.com/stomeonst/localize-saas-for-china), a reusable evidence-safe China market launch skill. Its [public skills.re audit](https://skills.re/skills/stomeonst/localize-saas-for-china/localize-saas-for-china/audit) scored 98 out of 100 on 15 July 2026.
-2. [WeCom CLI batch demo](https://github.com/stomeonst/wecom-cli-batch-demo), a credential-free local workflow demonstration with idempotency, bounded retry, logs, and automated tests.
-3. [Dated Web Change Evidence](https://github.com/stomeonst/dated-web-change-evidence), a zero-dependency Python sample that records visible HTML text with a UTC check time and SHA256 fingerprint. Four deterministic unit tests pass in release [v0.1.0](https://github.com/stomeonst/dated-web-change-evidence/releases/tag/v0.1.0).
-4. [LaunchClear Capability Samples](https://github.com/stomeonst/launchclear-capability-samples), two source-linked independent briefs covering a Chatwoot and AI support audit plus a six-page English B2B SaaS website delivery plan. Both disclose that no client relationship or commissioned result exists.
-5. [Automation Rescue fictional sample](https://chris-saas-services.stomeonst123.chatgpt.site/resources/automation-rescue-sample), a field-mapping and duplicate-write repair walkthrough with an explicit acceptance test and no production-work claim.
+1. [EasyFind Chinese IME diagnosis](https://github.com/wowaddonmaker/EasyFind/pull/15), a reproducible open source bug diagnosis and patch proposal. On 19 July 2026, the maintainer confirmed that the root cause analysis directly shaped the composition aware fix released in [v2.1.3](https://github.com/wowaddonmaker/EasyFind/releases/tag/v2.1.3) and used the [issue 14 reproduction cases](https://github.com/wowaddonmaker/EasyFind/issues/14) for validation. The pull request was closed after the maintainer implemented a different primary approach, while the submitted locale fallback remains in the released implementation.
+2. [Localize SaaS for China](https://github.com/stomeonst/localize-saas-for-china), a reusable evidence-safe China market launch skill. Its [public skills.re audit](https://skills.re/skills/stomeonst/localize-saas-for-china/localize-saas-for-china/audit) scored 98 out of 100 on 15 July 2026.
+3. [WeCom CLI batch demo](https://github.com/stomeonst/wecom-cli-batch-demo), a credential-free local workflow demonstration with idempotency, bounded retry, logs, and automated tests.
+4. [Dated Web Change Evidence](https://github.com/stomeonst/dated-web-change-evidence), a zero-dependency Python sample that records visible HTML text with a UTC check time and SHA256 fingerprint. Four deterministic unit tests pass in release [v0.1.0](https://github.com/stomeonst/dated-web-change-evidence/releases/tag/v0.1.0).
+5. [LaunchClear Capability Samples](https://github.com/stomeonst/launchclear-capability-samples), two source-linked independent briefs covering a Chatwoot and AI support audit plus a six-page English B2B SaaS website delivery plan. Both disclose that no client relationship or commissioned result exists.
+6. [Automation Rescue fictional sample](https://chris-saas-services.stomeonst123.chatgpt.site/resources/automation-rescue-sample), a field-mapping and duplicate-write repair walkthrough with an explicit acceptance test and no production-work claim.
 
 ## Working boundaries
 
