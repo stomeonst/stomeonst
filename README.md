@@ -16,7 +16,13 @@ I work on focused conversion assets, evidence-safe China localization, and bound
 6. China ready review: USD 250 for an evidence ledger, Chinese positioning, localized landing page copy, and launch blockers.
 7. AI workflow pilot: a small test environment milestone with explicit scope, safe retry rules, structured logs, and handoff notes.
 
-[Choose a starting point by email](mailto:stomeonst123@gmail.com?subject=Chris%20service%20request&body=Hi%20Chris%2C%0A%0AI%27m%20interested%20in%3A%0APrimary%20page%20or%20product%3A%0ATarget%20buyer%3A%0ADesired%20outcome%3A%0ATimeline%3A%0A%0AThanks%2C)
+### Request an Automation Rescue review
+
+1. [Submit a public, sanitized request in English](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=automation-rescue-request.yml).
+2. [用中文提交公开且已脱敏的需求](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=automation-rescue-request-zh.yml)。
+3. [Choose the private email path](mailto:stomeonst123@gmail.com?subject=Chris%20service%20request&body=Hi%20Chris%2C%0A%0AI%27m%20interested%20in%3A%0APrimary%20page%20or%20product%3A%0ATarget%20buyer%3A%0ADesired%20outcome%3A%0ATimeline%3A%0A%0AThanks%2C) when a safe first description cannot be posted publicly.
+
+Do not place credentials, API keys, personal data, customer data, private URLs, production exports, or confidential logs in a GitHub issue. A request begins scope review only. Work begins after scope, payment, access boundaries, and acceptance criteria are confirmed in writing.
 
 ## Public work
 
