@@ -12,15 +12,18 @@ I work on focused conversion assets, evidence-safe China localization, and bound
 2. SaaS Conversion QA Workbook: USD 29 or RMB 199 for 14 editable English and Chinese templates covering evidence, messaging, page QA, localization QA, a seven day test plan, and a decision summary. Delivery is within one business day after verified payment. [English preview](https://chris-saas-services.stomeonst123.chatgpt.site/workbook) and [Chinese preview](https://chris-saas-services.stomeonst123.chatgpt.site/zh/workbook).
 3. Conversion QA Diagnostic: USD 150 for international billing. A mainland China pilot price of RMB 999 is available after billing eligibility and the payment method are confirmed. It covers up to five public pages, a prioritized findings sheet, an implementation checklist, and one email clarification. Delivery is targeted within 24 hours after complete inputs and full payment. The USD 150 fee is credited toward the USD 450 sprint approved within seven calendar days after delivery, leaving USD 300. When mainland billing is available, RMB 999 is credited toward the RMB 2,980 sprint under the same timing rule, leaving RMB 1,981.
 4. Automation Rescue: USD 120 or RMB 799 for one existing workflow, one reproducible fault, one bounded repair, one buyer-authorized test, and one change note. Inspect the [English fictional sample](https://chris-saas-services.stomeonst123.chatgpt.site/resources/automation-rescue-sample) or [Chinese fictional sample](https://chris-saas-services.stomeonst123.chatgpt.site/zh/resources/automation-rescue-sample).
-5. 48 hour SaaS conversion sprint: USD 450 for one page, one audience, one conversion action, and one focused revision.
-6. China ready review: USD 250 for an evidence ledger, Chinese positioning, localized landing page copy, and launch blockers.
-7. AI workflow pilot: a small test environment milestone with explicit scope, safe retry rules, structured logs, and handoff notes.
+5. Public Data Signal Audit: USD 150 or RMB 999 for one public CSV or JSON dataset, or one buyer-authorized sanitized export of up to 5,000 rows. Delivery includes a data dictionary, validation results, reproducible Python and SQLite analysis, up to three evidence-backed findings, one accessible chart, and a short decision note within two business days.
+6. 48 hour SaaS conversion sprint: USD 450 for one page, one audience, one conversion action, and one focused revision.
+7. China ready review: USD 250 for an evidence ledger, Chinese positioning, localized landing page copy, and launch blockers.
+8. AI workflow pilot: a small test environment milestone with explicit scope, safe retry rules, structured logs, and handoff notes.
 
-### Request an Automation Rescue review
+### Request a fixed-scope review
 
-1. [Submit a public, sanitized request in English](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=automation-rescue-request.yml).
-2. [用中文提交公开且已脱敏的需求](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=automation-rescue-request-zh.yml)。
-3. [Choose the private email path](mailto:stomeonst123@gmail.com?subject=Chris%20service%20request&body=Hi%20Chris%2C%0A%0AI%27m%20interested%20in%3A%0APrimary%20page%20or%20product%3A%0ATarget%20buyer%3A%0ADesired%20outcome%3A%0ATimeline%3A%0A%0AThanks%2C) when a safe first description cannot be posted publicly.
+1. [Submit a public, sanitized Automation Rescue request in English](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=automation-rescue-request.yml).
+2. [用中文提交公开且已脱敏的自动化修复需求](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=automation-rescue-request-zh.yml)。
+3. [Submit a public, sanitized Data Signal Audit request in English](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=data-signal-audit-request.yml).
+4. [用中文提交公开且已脱敏的数据洞察审计需求](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=data-signal-audit-request-zh.yml)。
+5. [Choose the private email path](mailto:stomeonst123@gmail.com?subject=Chris%20service%20request&body=Hi%20Chris%2C%0A%0AI%27m%20interested%20in%3A%0APrimary%20page%2C%20workflow%2C%20or%20public%20dataset%3A%0ATarget%20buyer%20or%20decision%20question%3A%0ADesired%20outcome%3A%0ATimeline%3A%0A%0AThanks%2C) when a safe first description cannot be posted publicly.
 
 Do not place credentials, API keys, personal data, customer data, private URLs, production exports, or confidential logs in a GitHub issue. A request begins scope review only. Work begins after scope, payment, access boundaries, and acceptance criteria are confirmed in writing.
 
