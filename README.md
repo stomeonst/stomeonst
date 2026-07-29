@@ -26,7 +26,7 @@ I work on focused conversion assets, evidence-safe China localization, and bound
 4. [用中文提交公开且已脱敏的数据洞察审计需求](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=data-signal-audit-request-zh.yml)。
 5. [Submit a public, sanitized AI Agent Skill QA request in English](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=agent-skill-qa-request.yml).
 6. [用中文提交公开且已脱敏的 AI Agent Skill QA 需求](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=agent-skill-qa-request-zh.yml)。
-7. [Choose the private email path](mailto:stomeonst123@gmail.com?subject=Gang Qu%20service%20request&body=Hi%20Chris%2C%0A%0AI%27m%20interested%20in%3A%0APrimary%20page%2C%20workflow%2C%20or%20public%20dataset%3A%0ATarget%20buyer%20or%20decision%20question%3A%0ADesired%20outcome%3A%0ATimeline%3A%0A%0AThanks%2C) when a safe first description cannot be posted publicly.
+7. [Choose the private email path](mailto:stomeonst123@gmail.com?subject=Gang Qu%20service%20request&body=Hi%20Gang%20Qu%2C%0A%0AI%27m%20interested%20in%3A%0APrimary%20page%2C%20workflow%2C%20or%20public%20dataset%3A%0ATarget%20buyer%20or%20decision%20question%3A%0ADesired%20outcome%3A%0ATimeline%3A%0A%0AThanks%2C) when a safe first description cannot be posted publicly.
 
 Do not place credentials, API keys, personal data, customer data, private URLs, production exports, or confidential logs in a GitHub issue. A request begins scope review only. Work begins after scope, payment, access boundaries, and acceptance criteria are confirmed in writing.
 
