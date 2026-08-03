@@ -41,7 +41,7 @@ These completed products remain available as passive purchase options. They are 
 7. [WeCom CLI batch demo](https://github.com/stomeonst/wecom-cli-batch-demo), a credential-free local workflow demonstration with idempotency, bounded retry, logs, and automated tests.
 8. [Dated Web Change Evidence](https://github.com/stomeonst/dated-web-change-evidence), a zero-dependency Python sample that records visible HTML text with a UTC check time and SHA256 fingerprint. Four deterministic unit tests pass in release [v0.1.0](https://github.com/stomeonst/dated-web-change-evidence/releases/tag/v0.1.0).
 9. [LaunchClear Capability Samples](https://github.com/stomeonst/launchclear-capability-samples), executable public proofs and source-linked independent briefs covering agent loops, evidence-gated changes, automation repair, SaaS delivery, and reproducible public-data analysis. Each sample states its evidence, data, action, and client relationship boundaries.
-10. [Automation Rescue fictional sample](https://chris-saas-services.stomeonst123.chatgpt.site/resources/automation-rescue-sample), a field-mapping and duplicate-write repair walkthrough with an explicit acceptance test and no production-work claim.
+10. [Lead-to-CRM release gate fictional sample](https://github.com/stomeonst/launchclear-capability-samples/tree/main/lead-to-crm-release-gate-sample), a synthetic workflow acceptance walkthrough with twelve reproducible checks, evidence-linked findings, and no production-work claim.
 
 ## Working boundaries
 
