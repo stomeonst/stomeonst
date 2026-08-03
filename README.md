@@ -1,37 +1,34 @@
 # Gang Qu
 
-LaunchClear is an independent productized AI and digital delivery practice operated by Gang Qu for B2B SaaS teams.
+LaunchClear is an independent productized AI workflow reliability practice operated by Gang Qu.
 
-I work on focused conversion assets, evidence-safe China localization, and bounded AI workflow pilots. Each engagement begins with one reviewable paid milestone.
+The current focus is helping small B2B teams decide whether an existing lead-to-CRM workflow is ready to release. Every engagement starts with one bounded, reviewable paid milestone.
 
-[View services and public work](https://chris-saas-services.stomeonst123.chatgpt.site)
+## Current fixed-scope service
 
-## Ways to start
+**Lead-to-CRM AI Workflow Release Gate: USD 139 or RMB 999.**
 
-1. AI Output Evaluation Starter Kit: USD 29 for eight editable Markdown and CSV files covering rubrics, test cases, reviewer workflow, scoring, regression checks, and decision summaries. [View the product on Contra](https://contra.com/products/DGLkfeFN-ai-output-evaluation-starter-kit).
-2. Delivery Acceptance Workbench: USD 19 for a local Python QA utility that checks delivery folders against reusable rules and generates traceable JSON and offline HTML reports. [Try the live demo](https://stomeonst.github.io/delivery-acceptance-workbench/) or [review the product evidence](https://github.com/stomeonst/delivery-acceptance-workbench).
-3. Agent Approval Inbox for macOS: USD 29 for a local approval checkpoint with the ready-to-run app, complete Swift source, tests, bilingual documentation, and a one-product commercial license. [Review the product preview](https://github.com/stomeonst/agent-approval-inbox-preview).
-4. Free SaaS localization visual checklist: 12 visible checks covering identity, typography, screenshots, pricing, proof, trust paths, forms, and mobile actions. [English checklist](https://chris-saas-services.stomeonst123.chatgpt.site/resources/saas-localization-visual-checklist) and [Chinese checklist](https://chris-saas-services.stomeonst123.chatgpt.site/zh/resources/saas-localization-visual-checklist).
-5. SaaS Conversion QA Workbook: USD 29 or RMB 199 for 14 editable English and Chinese templates covering evidence, messaging, page QA, localization QA, a seven day test plan, and a decision summary. Delivery is within one business day after verified payment. [English preview](https://chris-saas-services.stomeonst123.chatgpt.site/workbook) and [Chinese preview](https://chris-saas-services.stomeonst123.chatgpt.site/zh/workbook).
-6. Conversion QA Diagnostic: USD 150 for international billing. A mainland China pilot price of RMB 999 is available after billing eligibility and the payment method are confirmed. It covers up to five public pages, a prioritized findings sheet, an implementation checklist, and one email clarification. Delivery is targeted within 24 hours after complete inputs and full payment. The USD 150 fee is credited toward the USD 450 sprint approved within seven calendar days after delivery, leaving USD 300. When mainland billing is available, RMB 999 is credited toward the RMB 2,980 sprint under the same timing rule, leaving RMB 1,981.
-7. Automation Rescue: USD 120 or RMB 799 for one existing workflow, one reproducible fault, one bounded repair, one buyer-authorized test, and one change note. Inspect the [English fictional sample](https://chris-saas-services.stomeonst123.chatgpt.site/resources/automation-rescue-sample) or [Chinese fictional sample](https://chris-saas-services.stomeonst123.chatgpt.site/zh/resources/automation-rescue-sample).
-8. Public Data Signal Audit: USD 150 or RMB 999 for one public CSV or JSON dataset, or one buyer-authorized sanitized export of up to 5,000 rows. Delivery includes a data dictionary, validation results, reproducible Python and SQLite analysis, up to three evidence-backed findings, one accessible chart, and a short decision note within two business days.
-9. AI Agent Skill QA: USD 150 or RMB 999 for one public or buyer-authorized sanitized skill package. The review covers trigger clarity, instruction conflicts, tool boundaries, sensitive-input handling, deterministic checks, and one prioritized QA report. Production access, credentials, and live external actions stay outside the review. Inspect the [fictional Lead Summary Skill QA sample](https://github.com/stomeonst/launchclear-capability-samples/tree/main/agent-skill-qa-sample).
-10. 48 hour SaaS conversion sprint: USD 450 for one page, one audience, one conversion action, and one focused revision.
-11. China ready review: USD 250 for an evidence ledger, Chinese positioning, localized landing page copy, and launch blockers.
-12. AI workflow pilot: a small test environment milestone with explicit scope, safe retry rules, structured logs, and handoff notes.
+The review covers one existing lead-to-CRM workflow, up to two connected systems, and twelve reproducible checks. Delivery includes a workflow boundary map, test matrix, evidence-linked issue log, release recommendation, and one bounded retest. The first report is delivered within 48 hours after complete sanitized inputs, confirmed scope, and verified payment.
 
-### Request a fixed-scope review
+The first pass can use a redacted export, sandbox, replayable logs, or synthetic fixtures. It excludes production credentials, real customer data, destructive operations, security testing, regulated-data review, revenue guarantees, and a new multi-system implementation.
 
-1. [Submit a public, sanitized Automation Rescue request in English](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=automation-rescue-request.yml).
-2. [用中文提交公开且已脱敏的自动化修复需求](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=automation-rescue-request-zh.yml)。
-3. [Submit a public, sanitized Data Signal Audit request in English](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=data-signal-audit-request.yml).
-4. [用中文提交公开且已脱敏的数据洞察审计需求](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=data-signal-audit-request-zh.yml)。
-5. [Submit a public, sanitized AI Agent Skill QA request in English](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=agent-skill-qa-request.yml).
-6. [用中文提交公开且已脱敏的 AI Agent Skill QA 需求](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=agent-skill-qa-request-zh.yml)。
-7. [Choose the private email path](mailto:stomeonst123@gmail.com?subject=Gang Qu%20service%20request&body=Hi%20Gang%20Qu%2C%0A%0AI%27m%20interested%20in%3A%0APrimary%20page%2C%20workflow%2C%20or%20public%20dataset%3A%0ATarget%20buyer%20or%20decision%20question%3A%0ADesired%20outcome%3A%0ATimeline%3A%0A%0AThanks%2C) when a safe first description cannot be posted publicly.
+[Review the fictional capability sample](https://github.com/stomeonst/launchclear-capability-samples/tree/main/lead-to-crm-release-gate-sample).
+
+### Start a request
+
+1. [Submit a public, sanitized request in English](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=automation-rescue-request.yml).
+2. [用中文提交公开且已脱敏的上线验收需求](https://github.com/stomeonst/launchclear-capability-samples/issues/new?template=automation-rescue-request-zh.yml)。
+3. [Use private email](mailto:stomeonst123@gmail.com?subject=LaunchClear%20Lead-to-CRM%20release%20gate&body=Hi%20Gang%20Qu%2C%0A%0AWorkflow%20stage%3A%0ATwo%20connected%20systems%3A%0AMain%20release%20risk%3A%0ASanitized%20evidence%20available%3A%0ATarget%20release%20date%3A%0A%0AThanks%2C) when the first description cannot be shared publicly.
 
 Do not place credentials, API keys, personal data, customer data, private URLs, production exports, or confidential logs in a GitHub issue. A request begins scope review only. Work begins after scope, payment, access boundaries, and acceptance criteria are confirmed in writing.
+
+## Self-serve products
+
+These completed products remain available as passive purchase options. They are not separate active service offers.
+
+1. [AI Output Evaluation Starter Kit](https://contra.com/products/DGLkfeFN-ai-output-evaluation-starter-kit): USD 29 for eight editable Markdown and CSV files.
+2. [Delivery Acceptance Workbench](https://stomeonst.github.io/delivery-acceptance-workbench/): USD 19 local Python QA utility with traceable JSON and offline HTML reports.
+3. [Agent Approval Inbox for macOS](https://github.com/stomeonst/agent-approval-inbox-preview): USD 29 local approval checkpoint with app, source, tests, and bilingual documentation.
 
 ## Public work
 
